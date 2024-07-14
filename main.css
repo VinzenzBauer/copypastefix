@@ -1,0 +1,3 @@
+.textarea-fileinput, .textarea-fileinput::file-selector-button {
+	width: 10em;
+}

@@ -1,0 +1,268 @@
+{
+  "default": {
+    "position": {
+      "x": "-1537.914",
+      "y": "2.305543",
+      "z": "686.9191"
+    },
+    "rotationdiff": "2.366022",
+    "rotationy": "134.4379"
+  },
+  "entities": [
+    {
+      "flags": {},
+      "items": [
+        {
+          "amount": 1000,
+          "blueprintTarget": 0,
+          "condition": "100",
+          "dataInt": 0,
+          "id": -25740268,
+          "position": 6,
+          "skinid": 0
+        },
+        {
+          "amount": 274,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "dataInt": 0,
+          "id": -602717596,
+          "position": 0,
+          "skinid": 0
+        },
+        {
+          "amount": 1000,
+          "blueprintTarget": 0,
+          "condition": "100",
+          "dataInt": 0,
+          "id": -1078639462,
+          "position": 9,
+          "skinid": 0
+        },
+        {
+          "amount": 1000,
+          "blueprintTarget": 0,
+          "condition": "100",
+          "dataInt": 0,
+          "id": 809199956,
+          "position": 12,
+          "skinid": 0
+        },
+        {
+          "amount": 1000,
+          "blueprintTarget": 0,
+          "condition": "100",
+          "dataInt": 0,
+          "id": 699075597,
+          "position": 15,
+          "skinid": 0
+        },
+        {
+          "amount": 1000,
+          "blueprintTarget": 0,
+          "condition": "100",
+          "dataInt": 0,
+          "id": 882559853,
+          "position": 18,
+          "skinid": 0
+        },
+        {
+          "amount": 1000,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "dataInt": 0,
+          "id": 1524980732,
+          "position": 21,
+          "skinid": 0
+        },
+        {
+          "amount": 1000,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "dataInt": 0,
+          "id": 1242522330,
+          "position": 24,
+          "skinid": 0
+        },
+        {
+          "amount": 1000,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "dataInt": 0,
+          "id": 1346158228,
+          "position": 30,
+          "skinid": 0
+        },
+        {
+          "amount": 1000,
+          "blueprintTarget": 0,
+          "condition": "30",
+          "dataInt": 0,
+          "id": -2001260025,
+          "position": 33,
+          "skinid": 0
+        },
+        {
+          "amount": 1000,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "dataInt": 0,
+          "id": 809942731,
+          "position": 36,
+          "skinid": 0
+        },
+        {
+          "amount": 999,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "dataInt": 0,
+          "id": -1043618880,
+          "position": 39,
+          "skinid": 0
+        },
+        {
+          "amount": 1,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "dataInt": 0,
+          "id": -602717596,
+          "position": 7,
+          "skinid": 0
+        },
+        {
+          "amount": 1,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "dataInt": 0,
+          "id": -602717596,
+          "position": 10,
+          "skinid": 0
+        },
+        {
+          "amount": 2,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "dataInt": 0,
+          "id": -602717596,
+          "position": 13,
+          "skinid": 0
+        },
+        {
+          "amount": 2,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "dataInt": 0,
+          "id": -602717596,
+          "position": 16,
+          "skinid": 0
+        },
+        {
+          "amount": 2,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "dataInt": 0,
+          "id": -602717596,
+          "position": 19,
+          "skinid": 0
+        },
+        {
+          "amount": 5,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "dataInt": 0,
+          "id": -602717596,
+          "position": 22,
+          "skinid": 0
+        },
+        {
+          "amount": 10,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "dataInt": 0,
+          "id": -602717596,
+          "position": 25,
+          "skinid": 0
+        },
+        {
+          "amount": 3,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "dataInt": 0,
+          "id": -602717596,
+          "position": 31,
+          "skinid": 0
+        },
+        {
+          "amount": 5,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "dataInt": 0,
+          "id": -602717596,
+          "position": 34,
+          "skinid": 0
+        },
+        {
+          "amount": 30,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "dataInt": 0,
+          "id": -602717596,
+          "position": 37,
+          "skinid": 0
+        },
+        {
+          "amount": 30,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "dataInt": 0,
+          "id": -602717596,
+          "position": 40,
+          "skinid": 0
+        }
+      ],
+      "lock": {
+        "code": "0815",
+        "flags": {},
+        "prefabname": "assets/prefabs/locks/keypad/lock.code.prefab"
+      },
+      "ownerid": 76561197980138550,
+      "pos": {
+        "x": "0.09724081",
+        "y": "0.1593928",
+        "z": "0.6543186"
+      },
+      "prefabname": "assets/prefabs/deployable/large wood storage/box.wooden.large.prefab",
+      "rot": {
+        "x": "1.336783E-07",
+        "y": "3.119993",
+        "z": "1.662743E-07"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561197980138550,
+      "pos": {
+        "x": "0.1236838",
+        "y": "0.05939198",
+        "z": "0.1243955"
+      },
+      "prefabname": "assets/prefabs/building core/foundation.triangle/foundation.triangle.prefab",
+      "rot": {
+        "x": "0",
+        "y": "-0.01963782",
+        "z": "0"
+      },
+      "skinid": 0
+    }
+  ],
+  "protocol": {
+    "items": 2,
+    "version": {
+      "Major": 4,
+      "Minor": 1,
+      "Patch": 37
+    }
+  }
+}

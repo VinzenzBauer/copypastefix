@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+	<link rel="stylesheet" href="main.css">
+	<title>Fix Rust CopyPaste-File</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 	
+	<script src="./import_text_field_panel.js"></script>
+</head>
+	<body bgcolor="#E0E0E0">
+		<h1>Fix Rust CopyPaste-File</h1>
+		<h2>DragNDrop your copypaste-File into the Textbox</h2>
+		<div data-field-wrapper="some_text_area">
+			<form class="bg-light p-3 rounded mx-md-5">
+				<textarea class="overflow-auto form-control mb-2 w-100">drag in here</textarea>
+				<input type="file" class="form-control textarea-fileinput">
+			</form>
+			<label id="labelOutput">Initial Output</label>
+		</div>
+		<script>
+			new ImportTextFieldPanel("some_text_area");
+		</script>
+		<form name="analyse" action="./cgi-bin/cgi-bruecke.php">
+			<input type="Submit" value="ANALYSE">
+		</form>
+		
+	</body>
+</html>

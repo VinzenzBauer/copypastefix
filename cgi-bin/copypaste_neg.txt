@@ -1,0 +1,107 @@
+assets/prefabs/misc/decor_dlc/minecart planter/minecart.planter.deployed.prefab
+assets/prefabs/misc/xmas/pookie/pookie_deployed.prefab
+assets/prefabs/building core/floor/floor.prefab
+assets/prefabs/deployable/ceiling light/ceilinglight.deployed.prefab
+assets/prefabs/building core/wall.low/wall.low.prefab
+assets/prefabs/building core/foundation/foundation.prefab
+assets/prefabs/misc/decor_dlc/rockingchair/skins/rockingchair.rockingchair2.deployed.prefab
+assets/prefabs/building core/wall.frame/wall.frame.prefab
+assets/prefabs/building core/wall.window/wall.window.prefab
+assets/prefabs/deployable/table/table.deployed.prefab
+assets/prefabs/building core/foundation.steps/foundation.steps.prefab
+assets/prefabs/building/wall.window.bars/wall.window.bars.wood.prefab
+assets/prefabs/building core/roof/roof.prefab
+assets/prefabs/misc/decor_dlc/storagebarrel/storage_barrel_c.prefab
+assets/prefabs/deployable/woodenbox/woodbox_deployed.prefab
+assets/prefabs/deployable/lantern/lantern.deployed.prefab
+assets/prefabs/misc/halloween/candles/largecandleset.prefab
+assets/prefabs/deployable/jack o lantern/jackolantern.happy.prefab
+assets/prefabs/misc/halloween/trophy skulls/skins/skulltrophy.jar.deployed.prefab
+assets/prefabs/misc/halloween/candles/smallcandleset.prefab
+assets/prefabs/building core/wall/wall.prefab
+assets/prefabs/deployable/signs/sign.medium.wood.prefab
+assets/prefabs/deployable/vendingmachine/vendingmachine.deployed.prefab
+assets/prefabs/deployable/playerioents/electricfurnace/electricfurnace.io.prefab
+assets/prefabs/deployable/playerioents/electricfurnace/electricfurnace.deployed.prefab
+assets/prefabs/building core/wall.doorway/wall.doorway.prefab
+assets/prefabs/building/door.hinged/door.hinged.wood.prefab
+assets/prefabs/deployable/sleeping bag/sleepingbag_leather_deployed.prefab
+assets/prefabs/deployable/mixingtable/mixingtable.deployed.prefab
+assets/prefabs/deployable/rug/rug.bear.deployed.prefab
+assets/bundled/prefabs/autospawn/resource/v3_temp_field/oak_e.prefab
+assets/bundled/prefabs/autospawn/resource/swamp-trees/swamp_tree_b.prefab
+assets/prefabs/deployable/composter/composter.prefab
+assets/prefabs/deployable/hitch & trough/hitchtrough.deployed.prefab
+assets/prefabs/deployable/weaponracks/weaponrack_single2.deployed.prefab
+assets/prefabs/deployable/rug/rug.deployed.prefab
+assets/prefabs/misc/summer_dlc/photoframe/photoframe.portrait.prefab
+assets/prefabs/misc/decor_dlc/bardoors/door.double.hinged.bardoors.prefab
+assets/prefabs/deployable/playerioents/lights/simplelight.prefab
+assets/prefabs/deployable/signs/sign.small.wood.prefab
+assets/prefabs/deployable/water catcher/water_catcher_small.prefab
+assets/prefabs/deployable/jack o lantern/jackolantern.angry.prefab
+assets/prefabs/deployable/large wood storage/box.wooden.large.prefab
+assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab
+assets/prefabs/misc/halloween/carvablepumpkin/carvable.pumpkin.prefab
+assets/prefabs/deployable/playerioents/sprinkler/electric.sprinkler.deployed.prefab
+assets/prefabs/deployable/weaponracks/weaponrack_stand.deployed.prefab
+assets/prefabs/building/door.double.hinged/door.double.hinged.wood.prefab
+assets/prefabs/misc/xmas/poweredlights/xmas.advanced.lights.deployed.prefab
+assets/prefabs/misc/decor_dlc/bath tub planter/bathtub.planter.deployed.prefab
+assets/prefabs/deployable/locker/locker.deployed.prefab
+assets/prefabs/deployable/tool cupboard/cupboard.tool.deployed.prefab
+assets/prefabs/building core/foundation.triangle/foundation.triangle.prefab
+assets/bundled/prefabs/autospawn/resource/v3_arid_cactus/cactus-5.prefab
+assets/prefabs/deployable/signs/sign.pictureframe.landscape.prefab
+assets/prefabs/misc/halloween/spiderweb/spiderweba.prefab
+assets/prefabs/building core/floor.triangle/floor.triangle.prefab
+assets/prefabs/misc/halloween/trophy skulls/skins/skulltrophy.jar2.deployed.prefab
+assets/prefabs/deployable/bed/bed_deployed.prefab
+assets/prefabs/deployable/weaponracks/weaponrack_single3.deployed.prefab
+assets/prefabs/building core/stairs.u/block.stair.ushape.prefab
+assets/prefabs/deployable/signs/sign.pictureframe.portrait.prefab
+assets/prefabs/deployable/campfire/campfire.prefab
+assets/prefabs/deployable/sofa/sofa.deployed.prefab
+assets/prefabs/deployable/tier 1 workbench/workbench1.deployed.prefab
+assets/prefabs/building/door.hinged/door.hinged.metal.prefab
+assets/prefabs/misc/xmas/christmas_lights/xmas.lightstring.deployed.prefab
+assets/prefabs/deployable/fridge/fridge.deployed.prefab
+assets/prefabs/misc/easter/faberge_egg_c/rustigeegg_c.deployed.prefab
+assets/prefabs/misc/halloween/trophy skulls/skins/skulltrophy.table.deployed.prefab
+assets/prefabs/deployable/furnace.large/furnace.large.prefab
+assets/prefabs/misc/twitch/hobobarrel/hobobarrel.deployed.prefab
+assets/prefabs/misc/decor_dlc/storagebarrel/storage_barrel_b.prefab
+assets/prefabs/deployable/signs/sign.hanging.ornate.prefab
+assets/prefabs/deployable/chair/chair.deployed.prefab
+assets/prefabs/building core/roof.triangle/roof.triangle.prefab
+assets/prefabs/deployable/fireplace/fireplace.deployed.prefab
+assets/prefabs/misc/decor_dlc/huntingtrophy_fish/fishtrophy.deployed.prefab
+assets/prefabs/deployable/repair bench/repairbench_deployed.prefab
+assets/prefabs/misc/decor_dlc/huntingtrophy_large/huntingtrophylarge.deployed.prefab
+assets/prefabs/misc/easter/faberge_egg_b/rustigeegg_b.deployed.prefab
+assets/prefabs/deployable/weaponracks/weaponrack_single1.deployed.prefab
+assets/prefabs/building core/stairs.l/block.stair.lshape.prefab
+assets/prefabs/deployable/tuna can wall lamp/tunalight.deployed.prefab
+assets/prefabs/deployable/tier 2 workbench/workbench2.deployed.prefab
+assets/prefabs/building core/wall.half/wall.half.prefab
+assets/prefabs/deployable/sofa/sofa.pattern.deployed.prefab
+assets/prefabs/deployable/card table/cardtable.deployed.prefab
+assets/prefabs/deployable/tier 3 workbench/workbench3.deployed.prefab
+assets/prefabs/building core/stairs.spiral/block.stair.spiral.prefab
+assets/prefabs/misc/halloween/graveyard_fence/graveyardfence.prefab
+assets/prefabs/building/wall.frame.garagedoor/wall.frame.garagedoor.prefab
+assets/prefabs/deployable/playerioents/generators/generator.small.prefab
+assets/bundled/prefabs/autospawn/resource/v3_arid_cactus/cactus-2.prefab
+assets/bundled/prefabs/autospawn/collectable/stone/halloween/halloween-wood-collectable.prefab
+assets/prefabs/building core/ramp/ramp.prefab
+assets/prefabs/misc/trophy_2023/trophy_2023.deployed.prefab
+assets/bundled/prefabs/autospawn/collectable/stone/halloween/halloween-metal-collectable.prefab
+assets/bundled/prefabs/autospawn/resource/v3_temp_field/oak_f.prefab
+assets/prefabs/misc/halloween/skull spikes/skins/skullspikes.candles.deployed.prefab
+assets/bundled/prefabs/autospawn/collectable/stone/halloween/halloween-stone-collectable.prefab
+assets/content/props/fog machine/fogmachine.prefab
+assets/prefabs/misc/halloween/scarecrow/scarecrow.deployed.prefab
+assets/bundled/prefabs/autospawn/resource/v3_temp_forest_pine/american_beech_a.prefab
+assets/prefabs/deployable/bbq/bbq.deployed.prefab
+assets/prefabs/misc/easter/faberge_egg_a/rustigeegg_a.deployed.prefab
+assets/prefabs/deployable/signs/sign.hanging.prefab

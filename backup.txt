@@ -1,0 +1,66 @@
+	#if (-e "copypaste_pos.txt")
+	#{ 
+	#	@pos = readftoa("copypaste_pos.txt");
+	#	print color("green"), "========= new pos ($tpos" , scalar @pos, ") ==========", color("reset"), "\n";
+	#	#print Dumper @pos;
+	#}
+	#if (-e "copypaste_neg.txt")
+	#{ 
+	#	@neg = readftoa("copypaste_neg.txt");
+	#	print color("green"), "========= new neg ($tneg" , scalar @neg, ") ==========", color("reset"), "\n";
+	#	#print Dumper @neg;
+	#}
+	
+	
+	#@diff = grep{ not $_ ~~ @pos } @neg;
+	#print color("green"), "========= possible problems ==========", color("reset"), "\n";
+	#print Dumper @diff;
+	
+	#print Dumper $decoded_json;
+	#my $views = $data->{views};
+	#my $nbViews = scalar @$views;	
+	#print "anzahl: ",scalar @ent,"\n";
+	#print "entities 2: ",
+      #$decoded_json->{'protocol'}{'version'}{'Patch'},
+	 # $decoded_json->{'entities'}[2]{'prefabname'},
+      #"\n";
+	  
+	  
+	  # textfile > filter > array
+sub readftoa{
+	my $file = shift or die "dont know what to read!";
+	
+	open my $handle, '<', $file or die "Can't open < $file!";
+	chomp(my @ent = <$handle>);
+	close $handle;
+
+	# filter array
+	my @filtered = uniq(@ent);	
+	return @filtered;
+}
+
+# json > filter > textfile
+#addjsontof($json, "copypaste_$param.txt");
+sub addjsontof{
+	my $json = shift;
+	my $filename = shift || "copypaste_pos.txt";
+	my @ent;
+	
+	# read json input and add to array
+	my $decoded_json = decode_json( $json );
+	my $ARent = $decoded_json->{'entities'};
+	foreach my $ent (@$ARent) {
+		push(@ent, $ent->{'prefabname'});
+	}
+	# filter array
+	my @filtered = uniq(@ent);
+	#$ASizeBefore = scalar @filtered;
+
+	# write array to txt file
+	open my $handle, ">>$$filename" or die "Cannot open output
+		+.txt: $!"; 
+	foreach my $ent (@filtered) {
+		print $handle $ent . "\n";
+	}
+	close $handle;
+}
